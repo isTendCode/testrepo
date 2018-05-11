@@ -1,4 +1,26 @@
 #!/bin/bash
+
+
+
+test page
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 read -p "请输入第1个整数:" num1
 read -p "请输入第2个整数:" num2
 read -p "请输入第3个整数:" num3
